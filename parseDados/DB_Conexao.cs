@@ -23,8 +23,6 @@ namespace parseDados
         {
             if ( cn.State == ConnectionState.Closed)
             cn.Open();
-           
-
             return cn;
         }
 
