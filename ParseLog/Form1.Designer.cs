@@ -39,7 +39,7 @@
             // 
             this.button1.Location = new System.Drawing.Point(35, 3);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(542, 37);
+            this.button1.Size = new System.Drawing.Size(524, 37);
             this.button1.TabIndex = 0;
             this.button1.Text = "Processar Arquivo";
             this.button1.UseVisualStyleBackColor = true;
@@ -62,7 +62,7 @@
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.textBox1.Size = new System.Drawing.Size(541, 137);
+            this.textBox1.Size = new System.Drawing.Size(524, 137);
             this.textBox1.TabIndex = 3;
             // 
             // dataGridView1
@@ -70,14 +70,14 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(35, 46);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(541, 150);
+            this.dataGridView1.Size = new System.Drawing.Size(524, 150);
             this.dataGridView1.TabIndex = 4;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(588, 395);
+            this.ClientSize = new System.Drawing.Size(571, 395);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button2);
